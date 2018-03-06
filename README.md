@@ -1,6 +1,6 @@
 # 声明
- 作者：LiCxi
- Fork 自 https://github.com/jzwalk/Avatars 原作者不再开发，后续跟进开发
+ * 作者：LiCxi
+ * Fork 自 https://github.com/jzwalk/Avatars 原作者不再开发，后续跟进开发
 
 ### Typecho读者墙+头像缓存插件Avatars
 2017年1月8日更新至**v1.2.4**: 
